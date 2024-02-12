@@ -36,7 +36,7 @@
 [Занятие 5. Свойства @property](https://drive.google.com/file/d/1z6wxdtsncCW57L7nGsi7bPrngT7KHmeF/view?usp=share_link)  
 [Занятие 6. Дескрипторы](https://drive.google.com/file/d/1UuMzMRqIUw5vdmWsRtgNsdouKAlVI9CH/view?usp=share_link)  
 [Занятие 7. Магические методы](https://drive.google.com/file/d/1I4eb2p2n2oKNz9Xtsb20EVQ9YWyvMgg2/view?usp=share_link)  
-[Занятие 8. Контрольная работа №1]()
+[Занятие 8. Контрольная работа №1]()  
 [Занятие 9.]()  
 [Занятие 10.]()  
 [Занятие 11.]()  
