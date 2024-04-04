@@ -41,7 +41,7 @@
 [Занятие 6. Дескрипторы](https://drive.google.com/file/d/1UuMzMRqIUw5vdmWsRtgNsdouKAlVI9CH/view?usp=share_link)  
 [Занятие 7. Магические методы](https://drive.google.com/file/d/1I4eb2p2n2oKNz9Xtsb20EVQ9YWyvMgg2/view?usp=share_link)  
 [Занятие 8. Контрольная работа №1](https://colab.research.google.com/drive/1LPyfzkmcGHYx1DbPUh3HFxXjL7EJR7sW)  
-[Занятие 9. Магические методы 2]()  
+[Занятие 9. Магические методы 2](https://drive.google.com/file/d/1Yl2gITiePUZRBjBgzvdwjwQ2oSyTljMe/view?usp=sharing)  
 [Занятие 10. Магические методы 3]()  
 [Занятие 11. Наследование и делегирование]()  
 [Занятие 12. Слоты]()  
