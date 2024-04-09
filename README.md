@@ -16,7 +16,7 @@
 Для получения автоматического зачета (только оценка "**Отлично**", автомат на другие оценки не работает) необходимо активно участвовать на занятиях (выполнять задания преподавателя, решать задачи).
 Также студентам, претендующим на получение автоматического зачета предлагается работа над собственным проектом.  
 Перед первой КР для освобождения от КР студент, претендующий на автоматический зачет, должен предоставить идею, план проекта, возможную реализацию (код) для согласования и консультации с преподавателем.  
-Перед второй КР должен быть доработан код + создан простой, но достаточно рабочий и функциональный UI для программы.   
+Перед второй КР должен быть доработан код + создан простой, но достаточно рабочий и функциональный UI для программы.
 Если все требования выполнены, студент освобождается от КР и получает автоматический зачет с оценкой "**Отлично**".  
 
 ### Примеры тем для проектов
@@ -36,7 +36,7 @@
 [Занятие 1. Введение в ООП](https://drive.google.com/file/d/1dvtbkYJvjBfDOTiuQdNgmgzE7tGvCkMn/view?usp=share_link)  
 [Занятие 2. Инициализатор и финализатор](https://drive.google.com/file/d/1kpt-OWxiSAmj9q_ZHuZo4VCdFXhA45LW/view?usp=share_link)  
 [Занятие 3. Декораторы и механизм инкапсуляции](https://drive.google.com/file/d/1AFc1b-hAJ7p9RON7CEwZV3ifcdJ3qS1t/view?usp=share_link)  
-[Занятие 4. Атрибуты и паттер "Моносостояние"](https://drive.google.com/file/d/1fUfoH0TEoun3sK8FkL7Wq090pq1MmEqj/view?usp=share_link)   
+[Занятие 4. Атрибуты и паттер "Моносостояние"](https://drive.google.com/file/d/1fUfoH0TEoun3sK8FkL7Wq090pq1MmEqj/view?usp=share_link)  
 [Занятие 5. Свойства @property](https://drive.google.com/file/d/1z6wxdtsncCW57L7nGsi7bPrngT7KHmeF/view?usp=share_link)  
 [Занятие 6. Дескрипторы](https://drive.google.com/file/d/1UuMzMRqIUw5vdmWsRtgNsdouKAlVI9CH/view?usp=share_link)  
 [Занятие 7. Магические методы](https://drive.google.com/file/d/1I4eb2p2n2oKNz9Xtsb20EVQ9YWyvMgg2/view?usp=share_link)  
