@@ -50,4 +50,4 @@
 [Занятие 12. Полиморфизм и абстрактные методы](https://drive.google.com/file/d/1YK7a2dyQa-MqFdPdbscTEFy9_qCsX5Ze/view?usp=drive_link)  
 [Занятие 13. Слоты](https://drive.google.com/file/d/19ktgbvO77kk4QKDOheJOBh-JGYgZt_sg/view?usp=drive_link)  
 [Занятие 14. Введение в обработку исключений](https://drive.google.com/file/d/1a3k62DFZn6yBQBswpa0mgg4XYknZJ53E/view?usp=drive_link)  
-[Занятие 15. Контрольная работа](https://colab.research.google.com/drive/1qguagBpkoyl-X5W-02h30xMzmO5A5OTY?usp=drive_link)  
+[Занятие 15. Контрольная работа](https://drive.google.com/file/d/17BF3p3QFQlEGl73g6z7jcYwJVOxFXpY5/view?usp=share_link)
