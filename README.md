@@ -34,8 +34,6 @@
 
 [Ресурс по GUI](https://doc.qt.io/qt-5/stylesheet-examples.html#customizing-qlineedit)
 
-
-=======
 # Цифровой практикум
 
 ## Немного информации
