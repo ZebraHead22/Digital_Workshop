@@ -34,23 +34,7 @@
 
 [Ресурс по GUI](https://doc.qt.io/qt-5/stylesheet-examples.html#customizing-qlineedit)
 
-## Ссылки на практические занятия
 
-[Занятие 1. Введение в ООП](https://drive.google.com/file/d/1dvtbkYJvjBfDOTiuQdNgmgzE7tGvCkMn/view?usp=share_link)  
-[Занятие 2. Инициализатор и финализатор](https://drive.google.com/file/d/1kpt-OWxiSAmj9q_ZHuZo4VCdFXhA45LW/view?usp=share_link)  
-[Занятие 3. Декораторы и механизм инкапсуляции](https://drive.google.com/file/d/1AFc1b-hAJ7p9RON7CEwZV3ifcdJ3qS1t/view?usp=share_link)  
-[Занятие 4. Атрибуты и паттер "Моносостояние"](https://drive.google.com/file/d/1fUfoH0TEoun3sK8FkL7Wq090pq1MmEqj/view?usp=share_link)  
-[Занятие 5. Свойства @property](https://drive.google.com/file/d/1z6wxdtsncCW57L7nGsi7bPrngT7KHmeF/view?usp=share_link)  
-[Занятие 6. Дескрипторы](https://drive.google.com/file/d/1UuMzMRqIUw5vdmWsRtgNsdouKAlVI9CH/view?usp=share_link)  
-[Занятие 7. Магические методы](https://drive.google.com/file/d/1I4eb2p2n2oKNz9Xtsb20EVQ9YWyvMgg2/view?usp=share_link)  
-[Занятие 8. Контрольная работа №1](https://colab.research.google.com/drive/1LPyfzkmcGHYx1DbPUh3HFxXjL7EJR7sW)  
-[Занятие 9. Магические методы 2](https://drive.google.com/file/d/1Yl2gITiePUZRBjBgzvdwjwQ2oSyTljMe/view?usp=sharing)  
-[Занятие 10. Магические методы 3](https://drive.google.com/file/d/1JASflFudDfgqwZbLHGI5vZJWopI5eHQw/view?usp=drive_link)  
-[Занятие 11. Наследование и делегирование](https://drive.google.com/file/d/1X7vPm1UEEmfjsfovdZZskWom9_EY7hpx/view?usp=drive_link)  
-[Занятие 12. Полиморфизм и абстрактные методы](https://drive.google.com/file/d/1YK7a2dyQa-MqFdPdbscTEFy9_qCsX5Ze/view?usp=drive_link)  
-[Занятие 13. Слоты](https://drive.google.com/file/d/19ktgbvO77kk4QKDOheJOBh-JGYgZt_sg/view?usp=drive_link)  
-[Занятие 14. Введение в обработку исключений](https://drive.google.com/file/d/1a3k62DFZn6yBQBswpa0mgg4XYknZJ53E/view?usp=drive_link)  
-[Занятие 15. Контрольная работа]()
 =======
 # Цифровой практикум
 
