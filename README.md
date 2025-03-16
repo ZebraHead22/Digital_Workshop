@@ -41,7 +41,7 @@
 [Занятие 4. Атрибуты и паттерн "Моносостояние"](https://drive.google.com/file/d/1fUfoH0TEoun3sK8FkL7Wq090pq1MmEqj/view?usp=share_link)  
 [Занятие 5. Магические методы](https://drive.google.com/file/d/1B8fZl3oghxuuX6XUnbuCj8okT3pJVYmx/view?usp=share_link)  
 [Занятие 6. Дескрипторы](https://drive.google.com/file/d/1UuMzMRqIUw5vdmWsRtgNsdouKAlVI9CH/view?usp=share_link)  
-[Занятие 7. Контрольная работа №1](https://drive.google.com/file/d/11z6wxdtsncCW57L7nGsi7bPrngT7KHmeF/view?usp=share_link)  
+[Занятие 7. Контрольная работа №1](https://drive.google.com/file/d/11z6wxdtsncCW57L7nGsi7bPrngT7KHmeF/view?usp=share_link1)  
 [Занятие 8. Магические методы сравнений](https://drive.google.com/file/d/1Yl2gITiePUZRBjBgzvdwjwQ2oSyTljMe/view?usp=share_link)  
 [Занятие 9. Магические методы перебора](https://drive.google.com/file/d/1JASflFudDfgqwZbLHGI5vZJWopI5eHQw/view?usp=share_link)  
 [Занятие 10. Наследование и делегирование](https://drive.google.com/file/d/1X7vPm1UEEmfjsfovdZZskWom9_EY7hpx/view?usp=share_link)  
