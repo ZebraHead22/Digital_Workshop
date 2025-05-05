@@ -48,4 +48,4 @@
 [Занятие 11. Коллекции](https://drive.google.com/file/d/19ktgbvO77kk4QKDOheJOBh-JGYgZt_sg/view?usp=drive_link)  
 [Занятие 12. Обработка исключений 1](https://drive.google.com/file/d/1a3k62DFZn6yBQBswpa0mgg4XYknZJ53E/view?usp=share_link)  
 [Занятие 13. Обработка исключений 2](https://drive.google.com/file/d/17BF3p3QFQlEGl73g6z7jcYwJVOxFXpY5/view?usp=share_link)   
-[Занятие 14. Контрольная работа №2](https://drive.google.com/file/d/1cm81Q7Ctve3649dbXlKSByifmePYaPtQ/view?usp=drive_link)
+[Занятие 14. Контрольная работа №2](https://drive.google.com/file/d/1cm81Q7Ctve3649dbXlKSByifmePYaPtQ/view?usp=sharing)
